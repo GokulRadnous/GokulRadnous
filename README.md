@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi there, I’m Gokul Soundar
 
-<!--
-**GokulRadnous/GokulRadnous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I’m a passionate Java Backend Developer with strong interest in building real-world applications using modern tech stacks.
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Tools
+- 💻 Core Java | JDBC | Servlets | JSP | Hibernate
+- ☕ Spring Framework | Spring Boot | REST APIs
+- 🐬 MySQL | Oracle
+- 🌐 HTML, CSS (basic)
+- ☁️ Git & GitHub for version control
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Currently Learning
+- 💡 DSA, LLD, HLD
+- 🔐 Spring Security
+- 🧩 Microservices Architecture
+- ☁️ AWS (basics)
+
+### 🛠️ Projects I’ve Built
+- 📅 **Event Management System**
+- 📱 **Merchant Product Management App**
+> 👉 Visit my pinned repositories below to explore them!
+
+### 🤝 Let’s Collaborate!
+I’m open to collaborating on:
+- Java-based backend projects
+- Spring Boot applications
+- Real-world problem-solving apps
+
+### 📫 How to Reach Me
+- 📧 Email: gokulradnous18@gmail.com
